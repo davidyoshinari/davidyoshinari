@@ -10,7 +10,7 @@ Content, documentation, and additional resources will be available soon.
 
 Display cow emoji: 🐄
 
-Sandwiches:
+# Sandwiches:
 ```
 sudo make me a sandwich
 ```
